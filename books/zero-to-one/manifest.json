@@ -1,9 +1,14 @@
 {
-    "version": "0.0.1",
-    "pagecount": 195,
-    "started": "04/10/2023",
-    "completed": "04/17/2023",
-    "title": "Zero to One: Notes on Startups, or How to Build the Future",
-    "author": "Peter Thiel",
-    "tags": ["politics", "business"]
+  "version": "0.0.1",
+  "pagecount": 195,
+  "started": "04/10/2023",
+  "completed": "04/17/2023",
+  "title": "Zero to One: Notes on Startups, or How to Build the Future",
+  "tags": [
+    "politics",
+    "business"
+  ],
+  "authors": [
+    "Peter Thiel"
+  ]
 }

@@ -1,9 +1,13 @@
 {
-    "version": "0.0.1",
-    "pagecount": 311,
-    "started": "04/18/2023",
-    "completed": "05/08/2023",
-    "title": "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime",
-    "author": "Sean Carroll",
-    "tags": ["science"]
+  "version": "0.0.1",
+  "pagecount": 311,
+  "started": "04/18/2023",
+  "completed": "05/08/2023",
+  "title": "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime",
+  "tags": [
+    "science"
+  ],
+  "authors": [
+    "Sean Carroll"
+  ]
 }

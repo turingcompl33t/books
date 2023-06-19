@@ -1,9 +1,13 @@
 {
-    "version": "0.0.1",
-    "pagecount": 297,
-    "started": "01/05/2023",
-    "completed": "01/11/2023",
-    "title": "Neuromancer",
-    "author": "William Gibson",
-    "tags": ["science-fiction"]
+  "version": "0.0.1",
+  "pagecount": 297,
+  "started": "01/05/2023",
+  "completed": "01/11/2023",
+  "title": "Neuromancer",
+  "tags": [
+    "science-fiction"
+  ],
+  "authors": [
+    "William Gibson"
+  ]
 }

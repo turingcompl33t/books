@@ -1,9 +1,13 @@
 {
-    "version": "0.0.1",
-    "pagecount": 263,
-    "started": "12/25/2022",
-    "completed": "12/31/2022",
-    "title": "Deep Work",
-    "author": "Cal Newport",
-    "tags": ["productivity"]
+  "version": "0.0.1",
+  "pagecount": 263,
+  "started": "12/25/2022",
+  "completed": "12/31/2022",
+  "title": "Deep Work",
+  "tags": [
+    "productivity"
+  ],
+  "authors": [
+    "Cal Newport"
+  ]
 }

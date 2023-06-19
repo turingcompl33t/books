@@ -1,9 +1,13 @@
 {
-    "version": "0.0.1",
-    "pagecount": 230,
-    "started": "01/03/2023",
-    "completed": "01/04/2023",
-    "title": "So Good They Can't Ignore You",
-    "author": "Cal Newport",
-    "tags": ["productivity"]
+  "version": "0.0.1",
+  "pagecount": 230,
+  "started": "01/03/2023",
+  "completed": "01/04/2023",
+  "title": "So Good They Can't Ignore You",
+  "tags": [
+    "productivity"
+  ],
+  "authors": [
+    "Cal Newport"
+  ]
 }

@@ -1,9 +1,14 @@
 {
-    "version": "0.0.1",
-    "pagecount": 304,
-    "started": "01/19/2023",
-    "completed": "01/23/2023",
-    "title": "Dottir: My Journey to Becoming a Two-Times CrossFit Games Champion",
-    "author": "Katrin Davidsdottir",
-    "tags": ["fitness", "crossfit"]
+  "version": "0.0.1",
+  "pagecount": 304,
+  "started": "01/19/2023",
+  "completed": "01/23/2023",
+  "title": "Dottir: My Journey to Becoming a Two-Times CrossFit Games Champion",
+  "tags": [
+    "fitness",
+    "crossfit"
+  ],
+  "authors": [
+    "Katrin Davidsdottir"
+  ]
 }

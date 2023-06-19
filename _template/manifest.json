@@ -1,0 +1,9 @@
+{
+    "version": "0.0.1",
+    "pagecount": 0,
+    "started": "01/30/1970",
+    "completed": "01/30/1970",
+    "title": "The Title of the Book",
+    "author": ["Author 0", "Author 1"],
+    "tags": ["tag0", "tag1"]
+}

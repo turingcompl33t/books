@@ -1,9 +1,15 @@
 {
-    "version": "0.0.1",
-    "pagecount": 384,
-    "started": "01/25/2023",
-    "completed": "02/04/2023",
-    "title": "The Bomb: Presidents, Generals, and the Secret History of Nuclear War",
-    "author": "Fred Kaplan",
-    "tags": ["history", "military", "politics"]
+  "version": "0.0.1",
+  "pagecount": 384,
+  "started": "01/25/2023",
+  "completed": "02/04/2023",
+  "title": "The Bomb: Presidents, Generals, and the Secret History of Nuclear War",
+  "tags": [
+    "history",
+    "military",
+    "politics"
+  ],
+  "authors": [
+    "Fred Kaplan"
+  ]
 }
