@@ -4,6 +4,10 @@
 # Script Execution
 # -----------------------------------------------------------------------------
 
+# Create a new entry
+new:
+	python _script/new.py --books books --templates _template $(name)
+
 migrate:
 	python _script/migrate_0.py --path books --verbose
 
